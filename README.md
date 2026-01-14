@@ -151,7 +151,6 @@
     - [Évolution Temporelle](#évolution-temporelle)
     - [Coûts Sociaux et Économiques](#coûts-sociaux-et-économiques)
     - [Ressources Additionnelles](#ressources-additionnelles)
-  - [9.2. Références](#92-références)
 # 2. Définition et Cadre Conceptuel
 
 ## 2.1. Définition Générale et Approfondie du Cyberharcèlement
@@ -1212,16 +1211,3 @@ Le cyberharcèlement a considérablement augmenté depuis 2015 :
 - e-Enfance : https://e-enfance.org/
 - CNIL : https://www.cnil.fr/
 - Cybermalveillance.gouv.fr : https://www.cybermalveillance.gouv.fr/
-
----
-
-## 9.2. Références
-
-1.  **INSEE**. (2025). *Cyberviolences dans les établissements scolaires et dans la société*. Économie et société à l'ère du numérique, Édition 2025.
-2.  **CNIL**. (2023). *Cyberviolences et cyberharcèlement : que faire ?* [https://www.cnil.fr/](https://www.cnil.fr/)
-3.  **e-Enfance**. (2025). *Lutte contre le cyber harcèlement*. [https://e-enfance.org/](https://e-enfance.org/)
-4.  **Cybermalveillance.gouv.fr**. (2025). *La sécurité sur les réseaux sociaux*. [https://www.cybermalveillance.gouv.fr/](https://www.cybermalveillance.gouv.fr/)
-5.  **Santé.fr**. (2025). *Le cyber harcèlement*. [https://www.sante.fr/](https://www.sante.fr/)
-6.  **ONU Femmes**. (2025). *Guide pratique pour la sécurité en ligne*. [https://www.unwomen.org/](https://www.unwomen.org/)
-7.  **PEN America**. (2024). *Glossaire du cyberharcèlement - Manuel de défense contre le cyberharcèlement*. [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
-8.  **Organisation Mondiale de la Santé**. (2024). *Cyberbullying in school-aged children*. [https://www.who.int/](https://www.who.int/)

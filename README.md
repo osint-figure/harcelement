@@ -537,7 +537,7 @@ Les réseaux d'anonymat comme **Tor Project forums** et les plateformes du darkn
 
 #### Groupes et Mouvements Structurés
 
-Au-delà des plateformes, le harcèlement est aussi le fait de groupes organisés avec une idéologie claire et une structure hiérarchique. Certains sont des collectifs de hackers ou de harceleurs spécialisés dans le cyberharcèlement et le doxxing, comme la **"Ligue du LOL"** en France, **dAn0n Hacker Group**, **KillNet**, **Leak Society**, ou **LolKow**. D'autres groupes, comme **676**, **764**, **AAST**, **Court**, **CVLT (Cult)**, **Deanon Club**, **Graves**, **H3ll**, **Harm Nation**, **Kaskar**, **No Live Matter**, et **The Com**, sont impliqués dans des campagnes de harcèlement extrêmes, incluant des menaces de mort, du doxxing, et du harcèlement sexuel.
+Au-delà des plateformes, le harcèlement est aussi le fait de groupes organisés avec une idéologie claire et une structure hiérarchique. Certains sont des collectifs de hackers ou de harceleurs spécialisés dans le cyberharcèlement et le doxxing, comme la **"Ligue du LOL"** en France, **dAn0n Hacker Group**, **KillNet**, **Leak Society**, ou **LolCow**. D'autres groupes, comme **676**, **764**, **AAST**, **Court**, **CVLT (Cult)**, **Deanon Club**, **Graves**, **H3ll**, **Harm Nation**, **Kaskar**, **No Live Matter**, et **The Com**, sont impliqués dans des campagnes de harcèlement extrêmes, incluant des menaces de mort, du doxxing, et du harcèlement sexuel.
 
 Des organisations terroristes d'extrême droite comme l'**Atomwaffen Division**, **National Action**, **The Base**, l'**Order of Nine Angles (O9A)**, **Iron March**, et **Terrorgram** utilisent le harcèlement en ligne comme une tactique de recrutement, de radicalisation et de terreur psychologique. Pour ces groupes, le cyberharcèlement n'est pas une fin en soi, mais un moyen de guerre psychologique visant à intimider leurs opposants, à affirmer leur présence et à recruter de nouveaux membres.
 
@@ -550,7 +550,7 @@ Le tableau suivant synthétise les principales plateformes et groupes associés 
 | **Réseaux Sociaux Alternatifs** | Gab, Parler, Truth Social, Stormfront, The Daily Stormer, VDARE | Communautés bannies, discours radicaux, suprémacisme, idéologies extrêmes. |
 | **Messageries Privées** | Discord, Telegram, IRC, Slack | Communication chiffrée, groupes fermés, coordination discrète, contournement de la censure. |
 | **Réseaux Anonymes** | Tor Project forums | Anonymat total, échappement à la modération, coordination extrémiste. |
-| **Groupes de Harcèlement** | Ligue du LOL, 676, 764, AAST, Court, CVLT, Deanon Club, Graves, H3ll, Harm Nation, Kaskar, KillNet, Leak Society, LolKow, No Live Matter, The Com, Vile | Spécialisation dans le harcèlement, doxxing, cybercriminalité, menaces. |
+| **Groupes de Harcèlement** | Ligue du LOL, 676, 764, AAST, Court, CVLT, Deanon Club, Graves, H3ll, Harm Nation, Kaskar, KillNet, Leak Society, LolCow, No Live Matter, The Com, Vile | Spécialisation dans le harcèlement, doxxing, cybercriminalité, menaces. |
 | **Groupes Terroristes Extrémistes** | Atomwaffen Division, National Action, The Base, O9A, Iron March, Terrorgram | Néonazisme, suprémacisme, recrutement, incitation au terrorisme, guerre psychologique. |
 
 ### 3.8.2. Fonctionnement et dynamiques internes
